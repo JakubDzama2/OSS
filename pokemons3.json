@@ -2,7 +2,7 @@
   {
     "name": "Bulbasaur",
     "dex": "#001",
-    "type": [
+    "types": [
               "Grass",
               "Poison"
             ],
@@ -13,7 +13,7 @@
   {
     "name": "Ivysaur",
     "dex": "#002",
-    "type": [
+    "types": [
               "Grass",
               "Poison"
             ],
@@ -24,7 +24,7 @@
   {
     "name": "Venusaur",
     "dex": "#003",
-    "type": [
+    "types": [
               "Grass",
               "Poison"
             ],
