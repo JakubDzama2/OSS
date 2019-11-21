@@ -1,0 +1,108 @@
+[
+  {
+    "name": "Bulbasaur",
+    "dex": "#001",
+    "types": [
+              "Grass",
+              "Poison",
+              "Funny"
+            ],
+    "description": "Bulbasaur is a small, quadruped Pokémon that has blue-green skin with darker patches. It has red eyes with white pupils, pointed, ear-like structures on top of its head, and a short, blunt snout with a wide mouth. A pair of small, pointed teeth are visible in the upper jaw when its mouth is open. Each of its thick legs ends with three sharp claws. On its back is a green plant bulb, which is grown from a seed planted there at birth. The bulb provides it with energy through photosynthesis as well as from the nutrient-rich seeds contained within.",
+    "url": "https://bulbapedia.bulbagarden.net/wiki/Bulbasaur_(Pok%C3%A9mon)",
+    "imageUrl": "https://cdn.bulbagarden.net/upload/2/21/001Bulbasaur.png"
+  },
+  {
+    "name": "Wartortle",
+    "dex": "#008",
+    "types": [
+              "Water"
+            ],
+    "description": "Wartortle is a bipedal, indigo Pokémon similar to a turtle. It has brown eyes, a dark blue streak on each cheek, and two sharp teeth protruding from its upper jaw. It has three clawed fingers and pointed toes. On each side of its head are feather-like ears covered in pale blue fur. A brown shell with a pale yellow underside encases its body. A thick, white rim separates the upper and lower halves of the shell. An older Wartortle may have scars and algae growing on its shell. Poking out of the bottom of the shell is a thick, wavy tail that also has light blue fur and cannot be fully withdrawn into its shell. Its tail fur will darken with age. Its tail is a popular symbol of longevity and good luck, making this Pokémon popular with the elderly.",
+    "url": "https://bulbapedia.bulbagarden.net/wiki/Wartortle_(Pok%C3%A9mon)",
+    "imageUrl": "https://cdn.bulbagarden.net/upload/0/0c/008Wartortle.png"
+  },
+  {
+    "name": "Ivysaur",
+    "dex": "#002",
+    "types": [
+              "Grass",
+              "Poison"
+            ],
+    "description": "Ivysaur is a quadruped Pokémon that has blue-green skin with darker patches. On top of its head are pointed ears with black insides and it has narrow red eyes. It has a short, rounded snout with a wide mouth and two pointed teeth in its upper jaw. Each of its feet has three claws on them. The bulb on its back has bloomed into a large pink bud. A short brown trunk surrounded by leafy green fronds supports the bud. The weight of the plant prevents Ivysaur from standing on its hind legs and forces its legs to grow sturdy. When its flower is ready to bloom, it gives off a distinct, strong sweet-smelling aroma and starts swelling. Ivysaur will also start spending more time in sunlight in preparation for its upcoming evolution. Exposure to sunlight adds to the strength of both Ivysaur and its plant. Ivysaur's natural habitat is plains.",
+    "url": "https://bulbapedia.bulbagarden.net/wiki/Ivysaur_(Pok%C3%A9mon)",
+    "imageUrl": "https://cdn.bulbagarden.net/upload/7/73/002Ivysaur.png"
+  },
+  {
+    "name": "Charizard",
+    "dex": "#006",
+    "types": [
+              "Fire",
+              "Flying"
+            ],
+    "description": "Charizard is a draconic, bipedal Pokémon. It is primarily orange with a cream underside from the chest to the tip of its tail. It has a long neck, small blue eyes, slightly raised nostrils, and two horn-like structures protruding from the back of its rectangular head. There are two fangs visible in the upper jaw when its mouth is closed. Two large wings with blue-green undersides sprout from its back, and a horn-like appendage juts out from the third joint of each wing. A single wing-finger is visible through the center of each wing membrane. Charizard's arms are short and skinny compared to its robust belly, and each limb has three white claws. It has stocky legs with cream-colored soles on each of its plantigrade feet. The tip of its long, tapering tail burns with a sizable flame.",
+    "url": "https://bulbapedia.bulbagarden.net/wiki/Charizard_(Pok%C3%A9mon)",
+    "imageUrl": "https://cdn.bulbagarden.net/upload/7/7e/006Charizard.png"
+  },
+  {
+    "name": "Charmander",
+    "dex": "#004",
+    "types": [
+              "Fire"
+            ],
+    "description": "Charmander is a bipedal, reptilian Pokémon with a primarily orange body and blue eyes. Its underside from the chest down and the soles of its feet are cream-colored. It has two small fangs visible in its upper jaw and two smaller fangs in its lower jaw. A fire burns at the tip of this Pokémon's slender tail and has blazed there since Charmander's birth. The flame can be used as an indication of Charmander's health and mood, burning brightly when the Pokémon is strong, weakly when it is exhausted, wavering when it is happy, and blazing when it is enraged. It is said that Charmander dies if its flame goes out. However, if the Pokémon is healthy, the flame will continue to burn even if it gets a bit wet and is said to steam in the rain.",
+    "url": "https://bulbapedia.bulbagarden.net/wiki/Charmander_(Pok%C3%A9mon)",
+    "imageUrl": "https://cdn.bulbagarden.net/upload/7/73/004Charmander.png"
+  },
+  {
+    "name": "Venusaur",
+    "dex": "#003",
+    "types": [
+              "Grass",
+              "Poison"
+            ],
+    "description": "Venusaur is a squat, quadruped Pokémon with bumpy, blue-green skin. It has small, circular red eyes, a short, blunt snout, and a wide mouth with two pointed teeth in the upper jaw and four in the lower jaw. On top of its head are small, pointed ears with reddish pink insides. It has three clawed toes on each foot. The bud on its back has bloomed in a large pink, white-spotted flower. The flower is supported by a thick, brown trunk surrounded by green fronds. A female Venusaur will have a seed in the center of its flower.",
+    "url": "https://bulbapedia.bulbagarden.net/wiki/Venusaur_(Pok%C3%A9mon)",
+    "imageUrl": "https://cdn.bulbagarden.net/upload/a/ae/003Venusaur.png"
+  },
+  {
+    "name": "Charmeleon",
+    "dex": "#005",
+    "types": [
+              "Fire"
+            ],
+    "description": "Charmeleon is a bipedal, reptilian Pokémon. It has dark red scales and a cream underside from the chest down. It has narrow, blue eyes and a long snout with a slightly hooked tip. On the back of its head is a single horn-like protrusion. It has relatively long arms with three sharp claws. Its short legs have plantigrade feet with three claws and cream-colored soles. The tip of its long, powerful tail has a flame burning on it. The temperature rises to unbearable levels if Charmeleon swings its tail.",
+    "url": "https://bulbapedia.bulbagarden.net/wiki/Charmeleon_(Pok%C3%A9mon)",
+    "imageUrl": "https://cdn.bulbagarden.net/upload/4/4a/005Charmeleon.png"
+  },
+  {
+    "name": "Squirtle",
+    "dex": "#007",
+    "types": [
+              "Water"
+            ],
+    "description": "Squirtle is a small Pokémon that resembles a light blue turtle. While it typically walks on its two short legs, it has been shown to run on all fours in Super Smash Bros. Brawl. It has large, purplish or reddish eyes and a slightly hooked upper lip. Each of its hands and feet have three pointed digits. The end of its long tail curls inward. Its body is encased by a tough shell that forms and hardens after birth. This shell is brown on the top, pale yellow on the bottom, and has a thick white ridge between the two halves.",
+    "url": "https://bulbapedia.bulbagarden.net/wiki/Squirtle_(Pok%C3%A9mon)",
+    "imageUrl": "https://cdn.bulbagarden.net/upload/3/39/007Squirtle.png"
+  },
+  {
+    "name": "Weedle",
+    "dex": "#013",
+    "types": [
+              "Bug",
+              "Poison"
+            ],
+    "description": "Weedle is a larval Pokémon with a segmented body ranging in color from yellow to reddish-brown. Each segment of its body is a sphere. It has a bulbous red nose on its face and two spherical feet on each body segment. The combination of red and yellow coloration creates a bright warning to predators that it is poisonous. Weedle has a conical, two-inch (five centimeter) venomous stinger on its head and a barbed one on its tail. Weedle can retaliate against attackers and those who step on it with its strong toxin. It can distinguish its favorite kinds of leaves using its acute sense of smell. As a young Bug Pokémon, its daily appetite for leaves matches its weight. Weedle can be found in temperate forests and usually hides in grass, bushes, and under the leaves it eats.",
+    "url": "https://bulbapedia.bulbagarden.net/wiki/Weedle_(Pok%C3%A9mon)",
+    "imageUrl": "https://cdn.bulbagarden.net/upload/d/df/013Weedle.png"
+  },
+  {
+    "name": "Blastoise",
+    "dex": "#009",
+    "types": [
+              "Water"
+            ],
+    "description": "Blastoise is a large, bipedal turtle-like Pokémon. Its body is blue and is mostly hidden by its tough, brown shell. This shell has a cream-colored underside and a white ridge encircling its arms and separating the upper and lower halves. Two powerful water cannons reside in the top of shell over its shoulders. These cannons can be extended or withdrawn. Blastoise's head has triangular ears that are black on the inside, small brown eyes, and a cream-colored lower jaw. Its arms are thick, and it has three claws on each hand. Its feet have three claws on the front and one on the back. Poking out of the bottom of its shell is a stubby tail.",
+    "url": "https://bulbapedia.bulbagarden.net/wiki/Blastoise_(Pok%C3%A9mon)",
+    "imageUrl": "https://cdn.bulbagarden.net/upload/0/02/009Blastoise.png"
+  }
+]
